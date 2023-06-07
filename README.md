@@ -1,1 +1,2 @@
-# Lockfree-Scalable-Hash
+# HazardPointer
+Hazard Pointer is a method of memory management in multithreaded programs.
